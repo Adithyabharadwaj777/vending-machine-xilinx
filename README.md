@@ -3,9 +3,8 @@
 This project is a digital vending machine designed and simulated using Xilinx ISE. The system is implemented using Verilog HDL and demonstrates basic FSM (Finite State Machine) design and behavioral modeling.
 
 ##  Features
-- Accepts coins of ₹1, ₹2, ₹5
-- Dispenses a product worth ₹7
-- Returns change if overpaid
+- Accepts coins 
+- Dispenses a product 
 - State Machine based implementation
 - Testbench simulation using Xilinx ISim
 
