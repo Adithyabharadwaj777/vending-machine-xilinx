@@ -14,11 +14,11 @@ This project is a digital vending machine designed and simulated using Xilinx IS
 - ISim Simulator
 
 
-## 🚀 How to Run
+##  How to Run
 1. Open project in Xilinx ISE
 2. Add Verilog files to project
 3. Simulate using ISim
 4. Check waveform and verify outputs
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
